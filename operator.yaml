@@ -3,7 +3,7 @@ operator:
     earnings_receiver_address: 0xb828b3373a614c097De7bD231F51d820D825fD3B
     delegation_approver_address: "0x0000000000000000000000000000000000000000"
     staker_opt_out_window_blocks: 0
-    metadata_url: "https://raw.githubusercontent.com/EigenHub/EigenLogo/main/metadata.json"
+    metadata_url: "https://raw.githubusercontent.com/EigenHub/EigenHub-Holesky/main/metadata.json"
 el_delegation_manager_address: 0xA44151489861Fe9e3055d95adC98FbD462B948e7
 eth_rpc_url: http://localhost:8084
 chain_id: 17000
